@@ -1,4 +1,4 @@
-# spring-webflux
+# Spring WebFlux Sample Application
 Sample application for a JavaWorld article that uses Spring WebFlux.
 
 This project implements a BookService RESTful web service in two ways:
