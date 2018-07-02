@@ -5,7 +5,7 @@ This project implements a BookService RESTful web service in two ways:
 * Annotation-based approach
 * Functional approach, using a router and handler functions
 
-The BookController demonstrates how to build a WebFlux application using traditional Spring annotations, 
+The `BookController` demonstrates how to build a WebFlux application using traditional Spring annotations, 
 namely the `@RestController` and request mapping annotations.
 
 The `BookHandler` and `BookRouter` demonstrate how to build a WebFlux application functionally.
