@@ -14,7 +14,7 @@ Once you have cloned the repository you can start the application using Maven:
 
 `mvn spring-boot:run`
 
-The `/book` URI maps to the BookController while the `/fbook` maps to the BookRouter and BookHandler.
+The `/book` URI maps to the `BookController` while the `/fbook` maps to the `BookRouter` and `BookHandler`.
 
 Here are some sample cURL commands to interact with the application:
 
